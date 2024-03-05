@@ -1,7 +1,7 @@
 # django-ninja
 Django Ninja is a new web framework for building APIs with Django and Python 3.6+ type hints.
 
-Key features:
+## Key features:
 Easy: Designed to be easy to use and intuitive.
 FAST execution: Very high performance thanks to Pydantic and async support.
 Fast to code: Type hints and automatic docs lets you focus only on business logic.
